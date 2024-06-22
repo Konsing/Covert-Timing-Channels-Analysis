@@ -1,0 +1,3 @@
+# Ignore other folders and data figures
+.ipynb_checkpoints/
+Project_DataFigures/
